@@ -143,6 +143,7 @@ export const ResultErrorsModalImages: FC<ResultErrorsModalProps> = ({ error }) =
           </Box>
         </>
       )}
+      {/* <h4>sadfasdf</h4> */}
     </Box>
   )
 }
